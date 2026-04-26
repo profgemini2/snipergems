@@ -1,0 +1,10 @@
+{
+  "name": "snipergems",
+  "version": "0.1.0",
+  "description": "early gem signal tracker",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "MIT"
+}

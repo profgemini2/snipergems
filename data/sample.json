@@ -1,0 +1,6 @@
+{
+  "tokens": [
+    { "name": "TOKEN_A", "volume": 12 },
+    { "name": "TOKEN_B", "volume": 20 }
+  ]
+}
